@@ -1,0 +1,3 @@
+Archivo txt de prueba para el curso
+
+De 0 a experto en Git y Github :D
