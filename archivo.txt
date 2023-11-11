@@ -1,5 +1,5 @@
-Archivo txt de prueba para el curso
+Archivo formato .txt de prueba del curso
 
-Con este archivo estare haciendo pruebas
+Con este archivo estare haciendo varias pruebas
 
 De 0 a experto en Git y Github :D
